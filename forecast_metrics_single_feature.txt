@@ -1,0 +1,4 @@
+Validation MAE : 0.4355
+Validation MSE : 0.3685
+Validation RMSE: 0.6071
+Validation R²  : -0.5653
